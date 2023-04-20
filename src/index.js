@@ -11,3 +11,4 @@ app.use(router.routes())
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`)
 })
+//NO MANDATORIO LLENAR TODOS LOS PARAMS EN EL 2 EJ
